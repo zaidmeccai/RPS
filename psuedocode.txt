@@ -1,0 +1,8 @@
+game of rock paper scissors will be played on the console
+a function will be created to play the game
+The fucntion will randomly retutn a choice for the computer
+Another function will take user choice 
+There will be two variables that keep track of the score between the user and the computer
+The game will be played round by round till 5 rounds
+A function will be created to play the game that use both human and computer choice to determine the winner
+human choice will be case sensitivity  
